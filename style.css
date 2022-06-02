@@ -606,6 +606,11 @@ color: #fff;
     color: #c9cbce;
     z-index: -9;
 }
+/* About Page */
+
+#page-header.about-header{
+    background-image: url('images/about/banner.png');
+}
 
 
 /* Start Media Query  */
