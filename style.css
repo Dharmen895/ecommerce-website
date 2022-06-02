@@ -557,6 +557,7 @@ color: #fff;
     align-items: center;
     width: 100%;
     position:relative;
+    padding-bottom: 90px;
 
 }
 #blog .blog-img{
@@ -755,6 +756,25 @@ color: #fff;
         margin-right: 0px;
     }
     #prodetails .single-pro-details {
+        width: 100%;
+    }
+    /* Blog Page */
+    #blog{
+        padding: 100px 20px 0 20px;
+    }
+    #blog .blog-box{
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+        width: 100%;
+        position: relative;
+        padding-bottom:90px;
+    }
+    #blog .blog-img{
+        width: 100%;
+        margin-right:0px;
+    }
+    #blog .blog-details{
         width: 100%;
     }
 
